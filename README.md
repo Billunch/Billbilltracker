@@ -1,3 +1,0 @@
-# Congress Tracker Bot
-
-How to deploy on Render...

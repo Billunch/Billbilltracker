@@ -1,1 +1,0 @@
-# def fetch_pdf_link(bill): return 'https://example.com/bill.pdf'

@@ -1,0 +1,1 @@
+# def send_notification(bill, summary, pdf): print('推播訊息')

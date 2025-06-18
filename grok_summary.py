@@ -1,0 +1,1 @@
+# def summarize_bill(bill): return '摘要內容（中）'
